@@ -24,4 +24,4 @@ I don't just manage code; I build the teams that write it.
 *   💬 **Let's Talk:** Engineering culture, scaling teams or just building stuff; I'm well versed in running and cycling as well!
 *   📫 **Connect:** [LinkedIn](https://linkedin.com/in/fernandonino)
 
-> **⚡ Fun Fact:** I co-founded two agencies (Design and Data). We failed spectacularly, but the lessons learned were worth more than a successful exit.
+**⚡ Fun Fact:** I co-founded two agencies (Design and Data). We failed spectacularly, but the lessons learned were worth more than a successful exit.
